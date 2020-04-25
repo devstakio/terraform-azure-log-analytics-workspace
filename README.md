@@ -16,6 +16,6 @@
 
 | Name | Description |
 |------|-------------|
+| id | n/a |
 | primary\_key | n/a |
 | workspace\_id | n/a |
-
