@@ -1,8 +1,10 @@
+<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Providers
 
 | Name | Version |
 |------|---------|
 | azurerm | n/a |
+| random | n/a |
 
 ## Inputs
 
@@ -19,3 +21,5 @@
 | id | n/a |
 | primary\_key | n/a |
 | workspace\_id | n/a |
+
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
